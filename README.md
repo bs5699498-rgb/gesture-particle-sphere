@@ -23,9 +23,9 @@ This project is for learning and recreation purposes. The visual concept is insp
 
 ## Demo
 
-[Watch Demo Video](demo.mp4)
+[![Gesture Particle Sphere Demo](assets/demo-cover.jpg)](demo.mp4)
 
-A short demonstration video is included in this repository.
+Click the image above to watch the demo video.
 
 ## 运行环境
 
