@@ -23,7 +23,9 @@ This project is for learning and recreation purposes. The visual concept is insp
 
 ## Demo
 
-[Watch Demo](demo.mp4)
+[Watch Demo Video](demo.mp4)
+
+A short demonstration video is included in this repository.
 
 ## 运行环境
 
