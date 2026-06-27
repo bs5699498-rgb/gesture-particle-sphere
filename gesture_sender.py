@@ -9,7 +9,7 @@ from pathlib import Path
 # 文件通信设置
 # TouchDesigner 会读取这个文件
 # =========================
-STATE_PATH = Path(r"D:\aaa_fuxiu\aaa\6.1\gesture_state.txt")
+STATE_PATH = Path(__file__).resolve().parent / "gesture_state.txt"
 
 
 # =========================
