@@ -2,6 +2,8 @@
 
 这是一个 Python + MediaPipe + OpenCV + TouchDesigner 的手势粒子球项目。
 
+本项目为复刻和学习用途，项目创意与效果并非原创。
+
 项目通过 `gesture_sender.py` 使用摄像头和 MediaPipe 识别手势，并把运行状态写入 `gesture_state.txt`。TouchDesigner 工程 `gesture_particle_sphere_final.toe` 读取该运行时状态，用手势控制粒子球效果。
 
 ## 运行环境
